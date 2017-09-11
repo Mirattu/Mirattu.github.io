@@ -1,4 +1,4 @@
-# Website Adress: Mirattu.github.io
+# Mirattu.github.io
 <html>
 <head>
   <title>website</title>
