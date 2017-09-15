@@ -6,6 +6,6 @@
   <body>
       <H1>Welcome to my Website</H1>
       <p>Hello peeps</p>
-      <img src="http://cdn1-www.dogtime.com/assets/uploads/gallery/30-impossibly-cute-puppies/impossibly-cute-puppy-2.jpg" />
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4erssUZlyzBHHt1v94swIOi2DZVcHzNc6tZtQfeppZwPACJK-NA" />
   </body>
  </html>
